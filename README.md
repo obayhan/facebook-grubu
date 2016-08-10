@@ -28,3 +28,4 @@ bu kurallara özen göstermeye gayret ediniz.*
 ##*Adminlerin Tabi Olduğu Kurallar*
 1. Kullanıcıların tabi olduğu kuralların hepsi.
 2. Silinen gönderinin veya kişinin gerekçesiyle birlikte organizasyon paylaşmak.
+ 1. Gönderileri [şuradan](https://github.com/Gnu-linux-turkiye/facebook-grubu/blob/master/AKSIYONLAR.MD) görebilirsiniz. 
