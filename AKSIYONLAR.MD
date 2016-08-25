@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Enes|Paylaşım silindi|Konu dışı paylaşım|25/08/2016|![](http://image.prntscr.com/image/1a4d5ebacc24443b91f8a993e7627892.png)
 |Victor|Paylasim silindi|Konu disi paylasim|23/08/2016|![](https://scontent.xx.fbcdn.net/v/t34.0-12/14102107_743301045812852_931894710_n.png?oh=3c8ac1580de4870c4abbc4e0f824c47d&oe=57BDC9E0)
 |Nikos|Paylasim silindi|Konu disi paylasim|21/08/2016|![](http://i.imgur.com/AbqH98W.png)|
 |Nikos|Kisi silindi|Hakaret|21/08/2016|![](http://i.imgur.com/ZVoyk8H.png)|
