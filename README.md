@@ -29,3 +29,10 @@ bu kurallara özen göstermeye gayret ediniz.*
 1. Kullanıcıların tabi olduğu kuralların hepsi.
 2. Silinen gönderinin veya kişinin gerekçesiyle birlikte organizasyon paylaşmak.
  1. Gönderileri [şuradan](https://github.com/Gnu-linux-turkiye/facebook-grubu/blob/master/AKSIYONLAR.MD) görebilirsiniz. 
+
+
+##*Telegram Grup Kuralları*
+1. Sohbette Irkçılık, Cinsellik ve benzeri diğer kullanıcıları rahatsız edebilecek konular konuşulamaz.
+2. T.C. Kanunlarına aykırı konular konuşulamaz.
+3. Gruba Bot eklemez. ve ya Bot linki paylaşılıp, kullanıcılara bota yazmaları için ısrar edilemez.
+4. Grupta izinsiz grup linki paylaşılamaz.
