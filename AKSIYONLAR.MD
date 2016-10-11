@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|nikos|paylasim silindi|yanlis kod ypaylasarak kisilerin bilgisayarlarina kasti zarar vermek|11/10/2016|![](http://i.imgur.com/QaDr9Ws.png)|
 |nikos|yorum silindi| kufur | 15/09/2016|![](http://i.imgur.com/U5oNaCC.png)|
 |Enes| Kullanıcı ve içerik silindi| Alakasız içerik & büyük harf | 07.09.2016 | ![](http://image.prntscr.com/image/05c8148e950d435eb1391a74a39cbb29.jpeg) |
 |Hakan| Silindi| Reklam | 01/09/2016 | ![](http://image.prntscr.com/image/f897558195334de59bf453e962c302c1.jpeg)|
