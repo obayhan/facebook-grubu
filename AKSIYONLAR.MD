@@ -2,7 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
-|Hakan|paylasim silindi, kullanıcı atıldı| Alan dışı konu paylaşımı, uyarıyı dinlemeden dalga geçerek devam etme |14/10/2016|![](http://www.prntscr.com/ctqllw)|
+|Hakan|paylasim silindi, kullanıcı atıldı| Alan dışı konu paylaşımı, uyarıyı dinlemeden dalga geçerek devam etme |14/10/2016|![](http://image.prntscr.com/image/92c5b1faf1334f6d8b6d999e2b4d78af.png)|
 |nikos|paylasim silindi|yanlis kod ypaylasarak kisilerin bilgisayarlarina kasti zarar vermek|11/10/2016|![](http://i.imgur.com/QaDr9Ws.png)|
 |nikos|yorum silindi| kufur | 15/09/2016|![](http://i.imgur.com/U5oNaCC.png)|
 |Enes| Kullanıcı ve içerik silindi| Alakasız içerik & büyük harf | 07.09.2016 | ![](http://image.prntscr.com/image/05c8148e950d435eb1391a74a39cbb29.jpeg) |
