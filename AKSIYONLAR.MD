@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Murat| Paylaşım silindi.| Reklam| 22/10/2016 | ![](https://files.slack.com/files-pri/T255MGWKV-F2SUNAU9K/heykir.jpg) |
 |Victor| Paylaşım ve kullanıcı silindi. | Yasal ve etik olmayan paylaşım, uyarıldı ve devamında silindi. | 15/10/2016 | ![](http://image.prntscr.com/image/1238e5d3f23c492398b061b035d605da.png)|
 |Hakan|paylasim silindi, kullanıcı atıldı| Alan dışı konu paylaşımı, uyarıyı dinlemeden dalga geçerek devam etme |14/10/2016|![](http://image.prntscr.com/image/92c5b1faf1334f6d8b6d999e2b4d78af.png)|
 |nikos|paylasim silindi|yanlis kod ypaylasarak kisilerin bilgisayarlarina kasti zarar vermek|11/10/2016|![](http://i.imgur.com/QaDr9Ws.png)|
