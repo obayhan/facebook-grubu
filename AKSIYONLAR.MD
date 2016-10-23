@@ -2,7 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
-|Murat| Paylaşım silindi kullanıcı kalıcı engellendi | Flood ve Reklam | ![](http://i.imgur.com/zfB0DS1.png) |
+|Murat| Paylaşım silindi kullanıcı kalıcı engellendi | 23/10/2016 | Flood ve Reklam | ![](http://i.imgur.com/zfB0DS1.png) |
 |Murat| Paylaşım silindi.| Reklam| 22/10/2016 | ![](http://i.imgur.com/eDxj6mZ.jpg) |
 |Victor| Paylaşım silindi | Açık-net olmayan (açıklanmayan) olası illegal paylaşım. | 22/10/2016 | ![](https://files.slack.com/files-pri/T255MGWKV-F2ST093A4/pasted_image_at_2016_10_22_06_01_pm.png?pub_secret=cd49e59528) |
 |Nikos|Paylasim silindi|Konu disi|22/10/2016/|![](https://files.slack.com/files-pri/T255MGWKV-F2SP9NWDU/screenshot_2016-10-22-00-53-15.png?pub_secret=0c00d2e313)|
