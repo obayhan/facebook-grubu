@@ -2,6 +2,8 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Murat| Paylaşım silindi, kullanıcı uyarıldı | Reklam | 28/10/2016 | ![](http://i.imgur.com/JD73QN4.png) |
+|Murat| Otomatik şikayet, paylaşım kaldırıldı | Reklam | 28/10/2016 | ![](http://i.imgur.com/6Ilpzfw.png) |
 |vikos| Paylaşım silindi, kullanıcı uyarıldı | Yasadışı içerik | 27/10/2016 | ![](https://files.slack.com/files-pri/T255MGWKV-F2V4N1G4Q/screenshot_2016-10-27-20-22-30.png?pub_secret=1ec88c0eea) |
 |Murat| Paylaşım silindi kullanıcı kalıcı engellendi | Flood ve Reklam | 23/10/2016 | ![](http://i.imgur.com/zfB0DS1.png) |
 |Murat| Paylaşım silindi.| Reklam| 22/10/2016 | ![](http://i.imgur.com/eDxj6mZ.jpg) |
