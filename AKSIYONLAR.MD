@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Murat| Otomatik şikayet, kullanıcı engellendi | Reklam | 30/10/2016 | ![](http://i.imgur.com/2fy33RN.png) |
 |Murat| Paylaşım silindi, kullanıcı uyarıldı | Reklam | 28/10/2016 | ![](http://i.imgur.com/JD73QN4.png) |
 |Murat| Otomatik şikayet, paylaşım kaldırıldı | Reklam | 28/10/2016 | ![](http://i.imgur.com/6Ilpzfw.png) |
 |vikos| Paylaşım silindi, kullanıcı uyarıldı | Yasadışı içerik | 27/10/2016 | ![](https://files.slack.com/files-pri/T255MGWKV-F2V4N1G4Q/screenshot_2016-10-27-20-22-30.png?pub_secret=1ec88c0eea) |
