@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Ali| Gönderi Silindi | Kural dışı içerik | 31/10/2016 | ![](http://i.imgur.com/X9tmqRL.png) |
 |Victor| Gönderi Silindi | Yasal ve kural dışı içerik | 31/10/2016 | ![](http://image.prntscr.com/image/4746482b1a624d439e56f1634e46f21d.png) |
 |Murat| Otomatik şikayet, kullanıcı engellendi | Reklam | 30/10/2016 | ![](http://i.imgur.com/2fy33RN.png) |
 |Murat| Paylaşım silindi, kullanıcı uyarıldı | Reklam | 28/10/2016 | ![](http://i.imgur.com/JD73QN4.png) |
