@@ -30,6 +30,13 @@ bu kurallara özen göstermeye gayret ediniz.*
 2. Silinen gönderinin veya kişinin gerekçesiyle birlikte organizasyon paylaşmak.
  1. Gönderileri [şuradan](https://github.com/Gnu-linux-turkiye/facebook-grubu/blob/master/AKSIYONLAR.MD) görebilirsiniz. 
 
+Son ankette alinan kali ile alakali kurallar
+==
+Sorunuz su durumlarda silinebilir:
+-Eger sadece ve sadece kali ile alakali ise genel linux distrolariyla bir ilgisi yoksa ve genel bir linux sorunu cozmuyorsa.
+-Hack ile alakali ise 
+-Bir baskasina zarar verebilecek bri yazilimi kullanma ile alakali ise
+-Basit kali kurulumu gibi googledan veya grup gecmisimiziden dakikalar icerisinde arayip bulabileceginiz bir konu ise
 
 ##*Telegram Grup Kuralları*
 1. Sohbette Irkçılık, Cinsellik ve benzeri diğer kullanıcıları rahatsız edebilecek konular konuşulamaz.
