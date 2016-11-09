@@ -1,47 +1,44 @@
-#**Grup Kuralları**
-*********
-*Bu gruba dahil olduğunuzda kabul edilen şartlar
-aşağıdaki gibidir. Aksi paylaşımlar silinebilir,
-hatta gruptan atılıp engellenebilirsiniz. Lütfen
-bu kurallara özen göstermeye gayret ediniz.*
+# Grup Kuralları
 
-*Kurallarda degisiklik olmasini istediginiz durumda bu repoya pull request'i atabilirsiniz.Isteginiz grup adminlerimizce değerlendirilip uygun bulunursa kurallara eklenecektir.*
+Bu gruba dahil olduğunuzda kabul edilen şartlar aşağıdaki gibidir. Aksi paylaşımlar silinebilir, hatta gruptan atılıp engellenebilirsiniz. Lütfen bu kurallara özen göstermeye gayret ediniz.
 
-******
-##*Kullanıcıların Tabi Olduğu Kurallar*
-1. Grup adminleri engellenmesi gruptan atılma sebebidir.
-	1. Bunun gerekcesi grup adminlerini engellediğiniz takdirde iceriğinizle (gerekli ise) alakalı yaptıkları yorumları göremeyecek olmanızdır.
+Kurallarda değişiklik olmasını istediğiniz durumda; bu depoya "*pull request*" atabilirsiniz. İsteğiniz grup yöneticilerimizce değerlendirilecek, uygun bulunursa kurallara eklenecektir.
+
+## Kullanıcıların Tabi Olduğu Kurallar
+
+1. Grup yöneticilerinin engellenmesi gruptan atılma sebebidir. Bunun gerekçesi; grup yöneticilerini engellediğiniz takdirde, (gerekli durumlarda) içeriğinizle alakalı yaptıkları yorumları göremeyecek olmanızdır.
 2. Reklam, spam, flood içerik paylaşımı yapılamaz.
-	1. Reklam linkleri de (bit.ly vs.) buna dahildir.
-	2. Listelenen durumlarda kullanıcı uyarılır ve gerekli yaptırımı kullanıcı yerine getirdiği durumda gönderi silinmeyebilir.
-		* Gönderi linux ile alakalı ve grubu engellemeyecek şekilde-aralıklarda paylaşılmış ise admin kişiyi uyarır ve paylaşımları tek bir paylaşım içerisinde toplamasını ister. Bu gereklilik kullanıcı tarafından yapılmadığı takdirde gönderi silinebilir.
-3. İçerikler grup konusuyla alakalı olmak zorundadır.
-4. Bireylerin birbirleri ile iletişimi esnasinda asağıdaki maddelerden birisinin ısrarla tekrarlanması gruptan atılma sebebidir.
-	1. Hakaret içerikli konuşmak ya da post paylaşmak.
-	2. Küfür kullanmak (Şaka niyetiyle bile olsa)
-	3. Bir başka kullanıcıyı tehdit etmek.
+    1. Reklam linkleri de (bit.ly vs.) buna dahildir.
+    2. Listelenen durumlarda kullanıcı uyarılır ve gerekli yaptırımı yerine getirdiği durumda gönderi silinmeyebilir.
+        * Gönderi Linux ile alakalı ve grubu engellemeyecek şekilde/aralıklarda paylaşılmış ise, yönetici kullanıcıyı uyarır ve paylaşımları tek bir paylaşım içerisinde toplamasını ister. Bu gereklilik, kullanıcı tarafından yapılmadığı takdirde gönderi silinebilir.
+3. Gönderiler grup konusuyla alakalı olmak zorundadır.
+4. Kullanıcıların birbirleri ile iletişimi esnasında, aşağıdaki maddelerden birisinin ısrarla tekrarlanması gruptan atılma sebebidir.
+    1. Hakaret içerikli konuşmak ya da gönderi paylaşmak.
+    2. Küfür kullanmak (şaka niyetiyle bile olsa).
+    3. Bir başka kullanıcıyı tehdit etmek.
 5. Aşağıdaki durumlarda da gönderileriniz silinebilir.
-	1. Belirsiz kaynak.
-	2. Yanlış bilgi.
-	3. Bir grup kullanıcıyı incitebilecek paylaşım.
-6. Kasten ve okumayı zorlaştırıcı ifadeler kullanılarak
-	  yapılan gönderiler silinebilir.
+    1. Belirsiz kaynak.
+    2. Yanlış bilgi.
+    3. Bir grup kullanıcıyı incitebilecek paylaşım.
+6. Kasten ve okumayı zorlaştırıcı ifadeler kullanılarak yapılan gönderiler silinebilir.
 
-##*Adminlerin Tabi Olduğu Kurallar*
-1. Kullanıcıların tabi olduğu kuralların hepsi.
-2. Silinen gönderinin veya kişinin gerekçesiyle birlikte organizasyon paylaşmak.
-	1. Gönderileri [şuradan](https://github.com/Gnu-linux-turkiye/facebook-grubu/blob/master/AKSIYONLAR.MD) görebilirsiniz.
+## Yöneticilerin Tabi Olduğu Kurallar
 
-Son ankette alinan kali ile alakali kurallar
-==
-Sorunuz su durumlarda silinebilir:
--Eger sadece ve sadece kali ile alakali ise genel linux distrolariyla bir ilgisi yoksa ve genel bir linux sorunu cozmuyorsa.
--Hack ile alakali ise
--Bir baskasina zarar verebilecek bri yazilimi kullanma ile alakali ise
--Basit kali kurulumu gibi googledan veya grup gecmisimiziden dakikalar icerisinde arayip bulabileceginiz bir konu ise
+1. Kullanıcıların tabi olduğu kuralların tümü yöneticiler için de geçerlidir.
+2. Silinen gönderinin veya kişinin, gerekçesiyle birlikte kaydını paylaşmak. Kayıtları [şuradan](https://github.com/Gnu-linux-turkiye/facebook-grubu/blob/master/AKSIYONLAR.MD) görebilirsiniz.
 
-##*Telegram Grup Kuralları*
-1. Sohbette Irkçılık, Cinsellik ve benzeri diğer kullanıcıları rahatsız edebilecek konular konuşulamaz.
-2. T.C. Kanunlarına aykırı konular konuşulamaz.
-3. Gruba Bot eklemez. ve ya Bot linki paylaşılıp, kullanıcılara bota yazmaları için ısrar edilemez.
+## Son ankette alınan Kali Linux ile alakalı kurallar
+
+Sorunuz aşağıdaki durumlarda silinebilir.
+
+1. Eğer sadece ve sadece Kali Linux ile alakalı ise, genel Linux dağıtımlarıyla bir ilgisi yoksa ve/veya genel bir Linux sorununu çözmüyorsa.
+2. Hack ile alakalı ise.
+3. Başkasına zarar verebilecek bir yazılım kullanımı ile alakalı ise.
+4. Basit Kali Linux kurulumu gibi Google'dan veya grup geçmişimizden kısa süre içerisinde arayıp bulabileceğiniz bir konu ise.
+
+## Telegram Grup Kuralları
+
+1. Sohbette; diğer kullanıcıları rahatsız edebilecek ırkçılık, cinsellik vb. konular konuşulamaz.
+2. T.C. kanunlarına aykırı konular konuşulamaz.
+3. Gruba "bot" eklenemez veya "bot" linki paylaşılıp kullanıcılara "bot"a yazmaları için ısrar edilemez.
 4. Grupta izinsiz grup linki paylaşılamaz.
