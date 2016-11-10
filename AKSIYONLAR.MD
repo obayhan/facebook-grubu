@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Victor| Gönderi kaldırıldı | Siyasi görüş farklılığı bulunabileceğinden ve linux grubu konusu dışında olduğundan, kişiler ne kadar önemli olursa olsun kural dışı kalmakta. | 10/10/2016 | ![](http://image.prntscr.com/image/26d884cc718d4023a55185fb7592b75b.png)
 |Victor| Gönderi silindi kullanıcı uyarıldı| Reklam içeriği | 04/11/2016 | ![](http://image.prntscr.com/image/3e28733111ce4a798879bc99ae93045e.png) |
 |Murat| Gönderi silindi | Pentest paylaşımı | 01/11/2016 | ![](http://i.imgur.com/rASAHag.png) |
 |Ali| Gönderi Silindi | Kural dışı içerik | 31/10/2016 | ![](http://i.imgur.com/X9tmqRL.png) |
