@@ -2,7 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
-|Ali| Paylaşım silindi, kullanıcı uyarıldı | Reklam ve Şikayet | 11/11/2016 | ![](http://imgur.com/a/3sVyU) |
+|Ali| Paylaşım silindi, kullanıcı uyarıldı | Reklam ve Şikayet | 11/11/2016 | ![](http://i.hizliresim.com/nEv29M.png) |
 |nikos|enes kuray adminlikten silindi gruptan atildi|uyeleri kutuplastirici paylasimlar yapmak ve uyarilara ragmen vaz gecmemek|10/10/2016
 |nikos| kullanici silindi|hakaret|10/10/2016|![](http://i.imgur.com/Ikk6Ze1.png)
 |Victor| Gönderi kaldırıldı | Siyasi görüş farklılığı bulunabileceğinden ve linux grubu konusu dışında olduğundan, kişiler ne kadar önemli olursa olsun kural dışı kalmakta. | 10/10/2016 | ![](http://image.prntscr.com/image/26d884cc718d4023a55185fb7592b75b.png)
