@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Ali| Paylaşım silindi| Reklam ve Kuraldışı | 20/11/2016 | ![](http://i.hizliresim.com/bk45an.png) |
 |Ali| Paylaşım silindi| Reklam ve Kuraldışı | 15/11/2016 | ![](http://i.hizliresim.com/77EJvN.jpg) |
 |Ali| Paylaşım silindi, kullanıcı uyarıldı | Reklam ve Şikayet | 11/11/2016 | ![](http://i.hizliresim.com/nEv29M.png) |
 |nikos|enes kuray adminlikten silindi gruptan atildi|uyeleri kutuplastirici paylasimlar yapmak ve uyarilara ragmen vaz gecmemek|10/10/2016
