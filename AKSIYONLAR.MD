@@ -2,7 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
-
+|Ali| Paylaşım silindi , Kullanıcı Engellendi| Reklam Konusunda Israrcı Davranmak | 20/11/2016 | ![](http://i.hizliresim.com/YqM32j.png) |
 |Ali| Paylaşım silindi| Reklam ve Kuraldışı | 20/11/2016 | ![](http://i.hizliresim.com/bk45an.png) |
 |Nikos|Yorum Silindi|Belli kesimleri incitebilecek soylem|18/11/2016/|![](http://i.imgur.com/TL1Zf5r.png)|
 |Ali| Paylaşım silindi| Reklam ve Kuraldışı | 15/11/2016 | ![](http://i.hizliresim.com/77EJvN.jpg) |
