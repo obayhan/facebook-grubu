@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Nikos|kullanici silindi|Kufur|10/12/2016|![](http://i.imgur.com/X8vc0h8.png)|
 |Nikos|Paylasim silindi|Grup ile alakasiz icerik.|27/11/2016|![](http://i.imgur.com/oF6tOHS.png)|
 |Ali| Paylaşım silindi , Kullanıcı Engellendi| Reklam Konusunda Israrcı Davranmak | 20/11/2016 | ![](http://i.hizliresim.com/YqM32j.png) |
 |Ali| Paylaşım silindi| Reklam ve Kuraldışı | 20/11/2016 | ![](http://i.hizliresim.com/bk45an.png) |
