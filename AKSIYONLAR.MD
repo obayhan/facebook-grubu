@@ -2,6 +2,7 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Nikos|Paylaşım silindi|Linux ile alakali olmayan icerik|14/12/2016|![](http://i.imgur.com/Edfn0YW.png)|
 |Ali| Paylaşım silindi| Alakasız Gönderi | 11/12/2016 | ![](http://i.hizliresim.com/g2ZBD5.png) |
 |Nikos|kullanici silindi|Kufur|10/12/2016|![](http://i.imgur.com/X8vc0h8.png)|
 |Nikos|Paylasim silindi|Grup ile alakasiz icerik.|27/11/2016|![](http://i.imgur.com/oF6tOHS.png)|
