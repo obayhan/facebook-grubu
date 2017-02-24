@@ -2,6 +2,8 @@ Grup içerisinde kurallar gereğince gerçekleştirilen aksiyonlar.
 
 |Admin|Aksiyon|Gerekce|Tarih|EkranGoruntusu|
 |:--:|:--:|:--:|:--:|:--:|
+|Ali| Paylaşım Silindi | Alakasız İçerik | 24/02/2017 | ![](http://i.hizliresim.com/Qag7Xv.png) |
+|Ali| Paylaşım Silindi | Alakasız İçerik | 24/02/2017 | ![](http://i.hizliresim.com/37Rq85.png) |
 |Ali| Paylaşım Silindi ve Kullanıcı Engellendi| Alakasız İçerik | 22/02/2017 | ![](http://i.hizliresim.com/ZZ25RA.png) |
 |Ali| Paylaşım Silindi| Alakasız İçerik | 19/01/2017 | ![](http://i.hizliresim.com/o0mN2m.png) |
 |Ali| Paylaşım Silindi| Alakasız İçerik | 03/01/2017 | ![](http://i.hizliresim.com/m4MQ02.png) |
