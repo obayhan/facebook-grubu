@@ -21,6 +21,7 @@ Kurallarda değişiklik olmasını istediğiniz durumda; bu depoya "*pull reques
     2. Yanlış bilgi.
     3. Bir grup kullanıcıyı incitebilecek paylaşım.
 6. Kasten ve okumayı zorlaştırıcı ifadeler kullanılarak yapılan gönderiler silinebilir.
+7. Diğer paylaşımcıların da emeğine saygı duymak adına her ne sebeple olursa olsun kullanıcılar kendi gönderilerini yoruma kapatmamalıdır. Bunun yerine sıkıntılı durumlarda yöneticiler ile iletişime geçilmelidir. Israr edilmesi durumunda kullanıcı gruptan atılır.
 
 ## Yöneticilerin Tabi Olduğu Kurallar
 
